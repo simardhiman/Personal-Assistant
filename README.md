@@ -1,4 +1,4 @@
-# Personal-Assistant
+Personal-Assistant
 This repository contains a simple program that uses the wolframalpha package to answer user's questions.
 
 Getting Started
@@ -14,6 +14,7 @@ Please note that the free version of the Wolfram Alpha API allows only a limited
 
 Contributing
 If you find any bugs or want to suggest a new feature, feel free to open an issue or submit a pull request.
+
 
 
 
