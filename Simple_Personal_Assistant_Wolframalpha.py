@@ -1,7 +1,7 @@
 import wolframalpha
 
 # App id obtained by the above steps
-app_id = 'YX8QE4-HRAHJQR4PK'
+app_id = 'Your app_id'
 
 while True:
     # Taking input from user
